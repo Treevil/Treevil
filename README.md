@@ -1,12 +1,15 @@
 ## Hi guys 👋
 
 I am Trevor, a Full Stack developer(Front-end Oriented), High School Teacher and StartUp Enthusiast. 
+I am currently looking for a new job opportunities.
 
 
 ### ⚡ Fun fact:
 
-- I am the proud owner of 2 bunnies and 1 doggo.  
-- 
+- I am the proud owner of two bunnies and one old dog.  
+- My hobbies are: role-play games, cardestry, anime and poker.
+
+
 <!--
 **Treevil/Treevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

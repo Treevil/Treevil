@@ -1,7 +1,8 @@
 ## Hi guys 👋
 
 I am Trevor, a Full Stack developer(Front-end Oriented), High School Teacher and StartUp Enthusiast. 
-I am currently looking for a new job opportunities.
+
+:pray: I am currently looking for a new job opportunities.
 
 
 ### ⚡ Fun fact:

@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi guys 👋
 
+I am Trevor, a Full Stack developer(Front-end Oriented), High School Teacher and StartUp Enthusiast. 
+
+
+### ⚡ Fun fact:
+
+- I am the proud owner of 2 bunnies and 1 doggo.  
+- 
 <!--
 **Treevil/Treevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
